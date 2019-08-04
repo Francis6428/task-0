@@ -1,0 +1,1 @@
+printf("Hello,everybody, let;s have fun time together.")
